@@ -654,6 +654,26 @@ let menuItems = [
                 image: 'images/i/articat-i.png',
             },
             {
+                cardId: 'artibit',
+                title: 'Artibit',
+                subtitle: '',
+                detail:``,
+
+                isCharacter: true,
+                species: 'Bunny',
+                pronouns: '',
+                gender: '',
+                sexuality: '',
+                aliases: '',
+                extra: '',
+                refsheet: '',
+                gallery: [
+                    'https://pbs.twimg.com/media/HG42FIsacAAZDJj?format=jpg&name=large',
+                ],
+
+                image: 'https://pbs.twimg.com/media/HHFdAiFa0AEAoXy?format=jpg&name=medium',
+            },
+            {
                 cardId: 'artifox',
                 title: 'Artifox',
                 subtitle: '',
